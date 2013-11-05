@@ -1,0 +1,1 @@
+console.log('INIT de: ' + Agreable_Module.currentModule + ' vue: ' + Agreable_Module.currentView);

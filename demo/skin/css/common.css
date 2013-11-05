@@ -1,0 +1,26 @@
+/* 
+    Created on : Sep 5, 2013, 3:08:19 PM
+    Author     : nowres
+*/
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.ui-body-c, .ui-overlay-c {
+    background: #f2f2f2;
+}
+
+.app {
+    background: none;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 0;
+    position: relative;
+}
+
+.ui-page { -webkit-backface-visibility: hidden; }
